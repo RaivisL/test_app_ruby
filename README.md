@@ -1,3 +1,3 @@
 # README
 
-First test repo on Ruby on Rails course
+First test repo on Ruby on Rails course, changing readme
